@@ -152,7 +152,7 @@ MESSAGE_TAGS= {
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'gopiamarnathreddy@gmail.com'
-EMAIL_HOST_PASSWORD = 'xvssfnolfexmmpcp'
+EMAIL_HOST_PASSWORD = 'xvssfnolfexmmpcpg'
 EMAIL_USE_TLS = True
 
 
