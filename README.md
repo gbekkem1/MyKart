@@ -1,1 +1,1 @@
-![Django Deployment Screenshot](ckart/static/images/test/project_screenshot.png)
+![Django Deployment Screenshot](ckart/static/images/test/project1.png)
